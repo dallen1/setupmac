@@ -47,6 +47,6 @@ rm -Rfv /tmp/$installdir
 
 echo "Checking for updates and rebooting then we are done! Enjoy!"
 
-sudo sh -c “softwareupdate -ia && reboot”
+softwareupdate -ia && reboot
 
 exit 0
