@@ -45,6 +45,6 @@ echo "cleaning up..."
 
 rm -Rfv /tmp/$installdir
 
-echo "Checking for updates and rebooting then we are done! Enjoy!"
+echo "We're done unless the Mac OS update checker says we need a reboot! Enjoy!"
 
 exit 0
