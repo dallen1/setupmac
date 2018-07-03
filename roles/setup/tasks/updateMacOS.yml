@@ -1,0 +1,3 @@
+---
+ - name: check for and install updates from the App Store
+   shell: softwareupdate -ia
