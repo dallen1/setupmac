@@ -17,6 +17,7 @@ cask_applications:
   - firefox
   - flash-player
   - google-chrome
+  - java
   - microsoft-office
   - vlc
   - zoomus
