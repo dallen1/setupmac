@@ -13,12 +13,12 @@ applications:
 
 # homebrew cask applications
 cask_applications:
-  - adobe-acrobat-reader
+  #- adobe-acrobat-reader
   - firefox
   - flash-player
   - google-chrome
   - java
-  #- microsoft-office
+  - microsoft-office
   - vlc
   - zoomus
   
