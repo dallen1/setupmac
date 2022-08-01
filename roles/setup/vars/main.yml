@@ -15,9 +15,7 @@ applications:
 cask_applications:
   - adobe-acrobat-reader
   - firefox
-  - flash-player
   - google-chrome
-  - java
   - microsoft-office
   - vlc
   - zoomus
