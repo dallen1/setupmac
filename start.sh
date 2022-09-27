@@ -25,8 +25,8 @@ echo "==========================================="
 echo "Setting up your mac using dallen1/setupmac"
 echo "==========================================="
 
-sudo easy_install pip
-sudo pip install ansible
+#sudo easy_install pip
+sudo pip3 install ansible
 
 installdir="/tmp/setupmac-$RANDOM"
 mkdir $installdir
