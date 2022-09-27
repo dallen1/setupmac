@@ -8,7 +8,7 @@ echo -n "are you sure you want to do that? [y/n] : "
 read confirmation
 
 if [ $confirmation == "y" ]; then
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
+    /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)
     exit 0
 else
   echo "keeping everything intact"
