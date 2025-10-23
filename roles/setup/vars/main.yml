@@ -19,6 +19,7 @@ cask_applications:
   - microsoft-office
   - vlc
   - zoom
+  - adobe-creative-cloud
   
 
 #downloads:
